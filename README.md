@@ -1,21 +1,20 @@
-# blackman
+# 拼图游戏
 
-> 黑人牙膏
-
-## Build Setup
+## 相关命令
 
 ``` bash
-# install dependencies
-npm install
+# 安装依赖
 
-# serve with hot reload at localhost:8080
-npm run dev
+    npm install
 
-# build for production with minification
-npm run build
+# 开发调试（热加载） 默认地址：http://localhost:8080
 
-# build for production and view the bundle analyzer report
-npm run build --report
+    npm run dev
+
+# 生产环境构建压缩
+
+    npm run build
+
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+想要了解更多关于如何运行的，请查看vue官方的[webpack链接](http://vuejs-templates.github.io/webpack/) [vue-loader链接](http://vuejs.github.io/vue-loader).
