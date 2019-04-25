@@ -3,6 +3,7 @@ import Home from './components/Home.vue'
 
 Vue.config.productionTip = false
 console.log('master')
+console.log('test1')
 new Vue({
   el: '#app',
   components: {
